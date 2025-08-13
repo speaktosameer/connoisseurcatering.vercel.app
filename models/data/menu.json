@@ -1,0 +1,80 @@
+{
+  "canapes": [
+    {
+      "id": 1,
+      "name": "Smoked Salmon Blinis",
+      "description": "House-cured salmon with crème fraîche and capers",
+      "price": "$4.50",
+      "dietary": ["Gluten-Free Available"]
+    },
+    {
+      "id": 2,
+      "name": "Truffle Arancini",
+      "description": "Crispy risotto balls with truffle oil and parmesan",
+      "price": "$3.80",
+      "dietary": ["Vegetarian"]
+    },
+    {
+      "id": 3,
+      "name": "Beef Tartare Crostini",
+      "description": "Premium beef with quail egg and micro herbs",
+      "price": "$5.20",
+      "dietary": []
+    }
+  ],
+  "mains": [
+    {
+      "id": 4,
+      "name": "Herb-Crusted Lamb",
+      "description": "Rack of lamb with rosemary jus and seasonal vegetables",
+      "price": "$38.00",
+      "dietary": ["Gluten-Free"]
+    },
+    {
+      "id": 5,
+      "name": "Pan-Seared Barramundi",
+      "description": "Australian barramundi with lemon butter sauce",
+      "price": "$32.00",
+      "dietary": ["Gluten-Free"]
+    },
+    {
+      "id": 6,
+      "name": "Mushroom Wellington",
+      "description": "Wild mushroom and spinach in puff pastry",
+      "price": "$28.00",
+      "dietary": ["Vegetarian"]
+    }
+  ],
+  "desserts": [
+    {
+      "id": 7,
+      "name": "Chocolate Fondant",
+      "description": "Warm chocolate cake with vanilla bean ice cream",
+      "price": "$12.00",
+      "dietary": ["Vegetarian"]
+    },
+    {
+      "id": 8,
+      "name": "Lemon Tart",
+      "description": "Classic lemon curd tart with berry compote",
+      "price": "$10.00",
+      "dietary": ["Vegetarian"]
+    }
+  ],
+  "beverages": [
+    {
+      "id": 9,
+      "name": "Premium Wine Package",
+      "description": "Selection of Australian wines",
+      "price": "$25.00 per person",
+      "dietary": []
+    },
+    {
+      "id": 10,
+      "name": "Artisan Coffee Service",
+      "description": "Barista-made coffee and tea selection",
+      "price": "$8.00 per person",
+      "dietary": ["Vegan Options"]
+    }
+  ]
+}

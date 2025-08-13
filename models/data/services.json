@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Wedding Catering",
+    "description": "Create unforgettable moments with our exquisite wedding catering services. From intimate ceremonies to grand celebrations.",
+    "image": "/placeholder.svg?height=300&width=400",
+    "features": ["Custom menu design", "Professional service staff", "Elegant presentation", "Dietary accommodations"],
+    "startingPrice": "$85 per person"
+  },
+  {
+    "id": 2,
+    "title": "Corporate Events",
+    "description": "Impress your clients and colleagues with professional catering for meetings, conferences, and corporate functions.",
+    "image": "/placeholder.svg?height=300&width=400",
+    "features": ["Business lunch packages", "Conference catering", "Networking events", "Executive dining"],
+    "startingPrice": "$45 per person"
+  },
+  {
+    "id": 3,
+    "title": "Private Functions",
+    "description": "Celebrate life's special moments with personalized catering for birthdays, anniversaries, and family gatherings.",
+    "image": "/placeholder.svg?height=300&width=400",
+    "features": ["Customized menus", "Intimate service", "Special occasion cakes", "Flexible arrangements"],
+    "startingPrice": "$65 per person"
+  }
+]

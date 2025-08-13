@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Mitchell",
+    "rating": 5,
+    "quote": "Absolutely exceptional service! The food was incredible and the presentation was flawless. Our wedding guests are still talking about the amazing catering.",
+    "event": "Wedding Reception",
+    "date": "2024-03-15"
+  },
+  {
+    "id": 2,
+    "name": "David Chen",
+    "rating": 5,
+    "quote": "Professional, reliable, and delicious. Connoisseur Catering made our corporate event a huge success. Highly recommended!",
+    "event": "Corporate Conference",
+    "date": "2024-02-28"
+  },
+  {
+    "id": 3,
+    "name": "Emma Thompson",
+    "rating": 5,
+    "quote": "The attention to detail was remarkable. Every dish was perfectly prepared and beautifully presented. Thank you for making our anniversary so special.",
+    "event": "Private Anniversary",
+    "date": "2024-01-20"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Elegant Wedding Setup",
+    "image": "/placeholder.svg?height=400&width=600",
+    "category": "weddings",
+    "description": "Beautiful table setting for a garden wedding reception"
+  },
+  {
+    "id": 2,
+    "title": "Corporate Lunch Buffet",
+    "image": "/placeholder.svg?height=400&width=600",
+    "category": "corporate",
+    "description": "Professional buffet setup for corporate meeting"
+  },
+  {
+    "id": 3,
+    "title": "Gourmet Canapés",
+    "image": "/placeholder.svg?height=400&width=600",
+    "category": "food",
+    "description": "Selection of artisanal canapés"
+  },
+  {
+    "id": 4,
+    "title": "Private Dinner Party",
+    "image": "/placeholder.svg?height=400&width=600",
+    "category": "private",
+    "description": "Intimate dinner setting for private celebration"
+  }
+]
